@@ -1,4 +1,4 @@
-use crate::uefi::api;
+use crate::api;
 
 #[repr(C)]
 pub struct SimpleTextOutputProtocol {
