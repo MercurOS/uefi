@@ -1,3 +1,7 @@
+#![no_std]
+
+#![feature(abi_efiapi)]
+
 pub mod api;
 
 mod application;
